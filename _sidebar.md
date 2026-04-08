@@ -1,0 +1,11 @@
+- [首页](README.md)
+
+- **CS106L 现代 C++ 编程**
+  - [课程概览](cs106l-standard-cpp-programming-github/README.md)
+  - [正文](cs106l-standard-cpp-programming-github/CS106L Standard C%2B%2B Programming.md)
+  
+- **数学建模**
+  - [课程概览](math-modeling-notes-github/README.md)
+  - [正文](math-modeling-notes-github/docs/%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E8%AF%BE%E7%A8%8B%20%E6%97%A0%E5%BA%9F%E8%AF%9D%E7%AC%94%E8%AE%B0.md) 
+  
+- ⚖️ [版权声明](README.md#版权声明)
